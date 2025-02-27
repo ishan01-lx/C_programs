@@ -21,3 +21,5 @@ int main(){
 
     return 0;
 }
+
+// Output: The array is not a palindrome.
